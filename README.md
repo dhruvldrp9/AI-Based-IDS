@@ -1,4 +1,7 @@
-# Network Traffic Threat Prediction
+# AI Based Intrusion Detection
+
+![AI_Based_IDS](https://github.com/user-attachments/assets/462708b8-2b3d-4963-926f-b024c8ca1d24)
+
 
 ## Overview
 This project aims to predict potential **security threats** in network traffic by analyzing pre-recorded data. Using machine learning techniques, the model processes historical network traffic data to identify patterns and anomalies indicative of cyber threats.
