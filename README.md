@@ -1,6 +1,7 @@
 # AI Based Intrusion Detection
 
-![AI_Based_IDS](https://github.com/user-attachments/assets/462708b8-2b3d-4963-926f-b024c8ca1d24)
+![AI_Based_IDS_New](https://github.com/user-attachments/assets/ea4abf84-c100-4725-88ec-61ef036720d1)
+
 
 
 ## Overview
